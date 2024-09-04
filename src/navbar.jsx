@@ -96,7 +96,7 @@ function Navbar() {
                 <D />
 
                 <div className="text-center my-12">
-                    <h1 className="leading-loose font-extrabold text-2xl md:text-4xl lg:text-5xl text-white">
+                    <h1 className="leading-loose font-extrabold text-2xl md:text-4xl lg:text-5xl text-white ">
                         Frequently Asked Questions
                     </h1>
 
